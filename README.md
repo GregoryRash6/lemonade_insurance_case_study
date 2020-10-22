@@ -14,7 +14,7 @@
 * Daniel Schreiber and Shai Wininger founded Lemonade and now serve as the CEO and President & COO, respectively.
 
 <!-- How did the idea for the company come about? -->
-* The idea for the company came about when the founders were tired of the traditional insurance model. They have stated that it lacked technology and transparency. Lemonaede's business model is different from traditional insurance models because they take a flat fee, so they are motivated to handle claims quickly. 
+* The idea for the company came about when the founders were tired of the traditional insurance model. They have stated that it lacked technology and transparency. Lemonade's business model is different from traditional insurance models because they take a flat fee, so they are motivated to handle claims quickly. 
 
 <!-- How is the company funded? How much funding have they received? -->
 * Lemonade has been funded by a series of investors, including Aleph, Sequoia Capital Israel, Allianz, and Softbank. In total, they have received $480 million in funding. 
@@ -77,35 +77,7 @@ What solution does this company offer that their competitors do not or cannot of
 * The ability to use your smart phone for the app will be an attraction for all consumers. It is an easy transition from app that they are comfortable using every day. This paired with upfront service will reap rewards. 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# References:
+## References
 * https://medium.com/@dschreiber
 * https://www.lemonade.com/faq#policy
 * https://www.crunchbase.com/organization/lemonade/company_financials
